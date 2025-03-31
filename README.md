@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm JuanmaIbzDev
+## Hi there! 👋 I'm Juan Manuel
 
 ### 💻 About Me
 I'm a passionate developer with experience in multiple programming languages and technologies. I enjoy building efficient and scalable solutions.
