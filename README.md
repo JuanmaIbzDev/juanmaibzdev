@@ -19,5 +19,3 @@ I'm a passionate developer with experience in multiple programming languages and
 - Email: [juanmanuelcontacto332@gmail.com](#)
 
 ---
-
-Let me know if you want any changes! 🚀
